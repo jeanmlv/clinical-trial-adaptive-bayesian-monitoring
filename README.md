@@ -59,7 +59,7 @@ The goal is to replicate real-world adaptive design strategies that improve tria
 
 ### Posterior Distributions After Final Cohort
 
-![Posterior Plot](./posterior_plot_example.png)
+![Posterior Plot](posterior-distribution.png)
 
 > Clear separation between treatment and control posterior densities, indicating a strong signal for treatment efficacy.
 
